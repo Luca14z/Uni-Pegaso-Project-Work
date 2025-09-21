@@ -26,7 +26,7 @@ Questo progetto è un sito web informativo per presentare il **Report di Sosteni
 
 1. Clona il repository:
    ```bash
-   git clone https://github.com/tuo-username/birra-peroni.git
+   git clone https://github.com/Luca14z/Uni-Pegaso-Project-Work.git
 
 ---
 
