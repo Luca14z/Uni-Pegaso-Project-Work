@@ -1,8 +1,8 @@
 .hero {
-  background-image: url("../assets/hero_img_peroni.jpg");
+  background-image: url("../assets/peroni_eco.png");
   background-size: cover;
   background-position: center;
-  height: 70vh;
+  height: 85vh;
   display: flex;
   align-items: center;
   justify-content: center;
