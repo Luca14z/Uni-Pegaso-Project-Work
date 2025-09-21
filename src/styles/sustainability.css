@@ -1,0 +1,42 @@
+.sustainability {
+  padding: 2rem 1.5rem;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.sustainability h3 {
+  font-size: 2rem;
+  font-weight: bold;
+  color: #b91c1c;
+  margin-bottom: 1.5rem;
+}
+
+.sustainability p {
+  font-size: 1.125rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+}
+
+.sustainability-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+}
+
+.card {
+  background-color: #f3f4f6;
+  padding: 1.5rem;
+  border-radius: 1.25rem;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card h4 {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
